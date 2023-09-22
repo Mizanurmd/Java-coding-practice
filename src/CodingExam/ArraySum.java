@@ -8,6 +8,7 @@ public class ArraySum {
 
 		int actualSum = (10 * 11) / 2;
 
+
 		int sum = 0;
 		for (int i = 0; i < ar.length; i++) {
 			sum = sum + ar[i];
