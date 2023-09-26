@@ -1,6 +1,7 @@
 package ExampUsingStram;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 import java.util.Map;
@@ -47,6 +48,11 @@ public class EmployeeTest {
 				.map(e -> e.getName()).collect(Collectors.toList());
 
 		System.out.println(name);
+		
+		System.out.println("==================Test Stream Api ==================");
+		List names = Arrays.asList("Reflection","Collection","Stream");
+		List result = (List) names.stream().sorted().collect(Collectors.toList());
+		System.out.println(result);
 
 	}
 
