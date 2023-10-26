@@ -2,6 +2,7 @@ package ArrayListDetails;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Iterator;
 
 public class ArrayList_One {
 	public static void main(String[]args) {
@@ -36,6 +37,13 @@ public class ArrayList_One {
 		// get ArrayList Size
 		int s = list.size();
 		System.out.println(s);
+		// print ArrayList using loop
+		System.out.println("=========Print ArrayList using Iterator==========");
+		Iterator it = list.iterator();
+		while(it.hasNext()) {
+			System.out.print(it.next()+",");
+		}
+		System.out.println("\n=========================");
 		
 		// print ArrayList using loop
 		for(int i =0; i<list.size(); i++) {
