@@ -8,6 +8,11 @@ public class FindoutCommonElementOfArraay {
 		
 		int []arr = {80,35,40,75,100,60};
 		int []arr2 = {80,90,40,75,50,70};
+		
+		
+		
+
+		
 		commonElement(arr, arr2);
 		System.out.println("==========================");
 		printUnion(arr, arr2);

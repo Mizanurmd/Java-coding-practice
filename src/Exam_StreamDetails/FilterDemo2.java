@@ -40,8 +40,8 @@ public class FilterDemo2 {
 		
 		System.out.println("========== Combination fillter and map=============");
 		
-		List<String> m = pp.stream().filter(e->e.getPrice()>620.20)
-		.map(e->e.getName()).collect(Collectors.toList());
+		List<Double> m = pp.stream()
+		.map(e->e.getPrice()+200).collect(Collectors.toList());
 		
 		System.out.println(m);
 		

@@ -12,7 +12,7 @@ public class LinearSerchAlgorithom {
 		 while(left < right) {
 			 mid = (left +right)/2;
 			 if(nums[mid]==searchNumber) {
-				 System.out.println("Number is founded. Index = "+ mid);
+				 System.out.println("Number is founded Index = "+ mid);
 				 return;
 			 }else if(nums[mid] < searchNumber) {
 				 left = mid +1;
