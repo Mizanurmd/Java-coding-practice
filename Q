@@ -1,0 +1,131 @@
+[33mcommit a27ac0b4e1ca2a06677e609a0fe7537c30da8ebf[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Mizanurmd <mizanur021991@gmail.com>
+Date:   Mon Dec 18 19:25:54 2023 +0600
+
+    Exam of Array, Stringjoinner, Optional Class and sum of Array
+
+[33mcommit 84e777724464d52b3046989430bfc85e70b1f4e3[m
+Author: Mizanurmd <mizanur021991@gmail.com>
+Date:   Sun Dec 17 16:08:20 2023 +0600
+
+    Comparator and Comparable
+
+[33mcommit fac1fab98b2d2fd36f6b2aea3937f56285efbaa8[m
+Author: Mizanurmd <mizanur021991@gmail.com>
+Date:   Wed Dec 6 17:50:50 2023 +0600
+
+    Collections + Pattern related
+
+[33mcommit 0a6083c33e51f41b4fde7e48af38449c24b0240f[m
+Author: Mizanurmd <mizanur021991@gmail.com>
+Date:   Tue Nov 21 13:10:51 2023 +0600
+
+    ExamPart-6 and Stream Api and Singleton
+
+[33mcommit 488a4ab0b05e79e56f6bc810af0b31bb8fd5b21c[m
+Author: Mizanurmd <mizanur021991@gmail.com>
+Date:   Mon Nov 20 11:46:58 2023 +0600
+
+    Sentenc + SingletonDesign Pattern
+
+[33mcommit 90050ea6b008065a221b7c4d59d309619b5df6c0[m
+Author: Mizanurmd <mizanur021991@gmail.com>
+Date:   Sat Oct 28 15:02:37 2023 +0600
+
+    Exam_4
+
+[33mcommit 66cd778cd3a0e73bc4fed0b94e2c2f915f471056[m
+Author: Mizanurmd <mizanur021991@gmail.com>
+Date:   Thu Oct 26 10:43:41 2023 +0600
+
+    ArrayDetails Linear & Binary Search
+
+[33mcommit 787fd85cac2d96530794b2bccd5ba6d929597452[m
+Author: Mizanurmd <mizanur021991@gmail.com>
+Date:   Sun Oct 22 10:13:29 2023 +0600
+
+    LinkedList and Stact details
+
+[33mcommit 99b96a853f551d0afaecf9b81f5023205a1bf2d1[m
+Author: Mizanurmd <mizanur021991@gmail.com>
+Date:   Thu Oct 19 18:43:07 2023 +0600
+
+    Array and ArrayList
+
+[33mcommit ad9ce092eb8a9ddf58e07cfe5813e11bdefab60b[m
+Author: Mizanurmd <mizanur021991@gmail.com>
+Date:   Sun Oct 15 09:53:07 2023 +0600
+
+    Stream Related others Question here
+
+[33mcommit be58e82d8b4661eab203540b122250fee93d4971[m
+Author: Mizanurmd <mizanur021991@gmail.com>
+Date:   Sat Oct 14 10:06:37 2023 +0600
+
+    Stram 10 Question with Answer
+
+[33mcommit 84ae3d5cbe68d6ca48f4fbfb6cfac52092abad6f[m
+Author: Mizanurmd <mizanur021991@gmail.com>
+Date:   Tue Oct 3 11:13:03 2023 +0600
+
+    Stream API Related
+
+[33mcommit f4553cfe637fd074704f71cb7ec0ddc8b0ebcada[m
+Author: Mizanurmd <mizanur021991@gmail.com>
+Date:   Tue Sep 26 12:43:44 2023 +0600
+
+    Date and time API, Stream Api, LamdaFunction and Functional interface
+
+[33mcommit e3bd0a82ab9ed54060065f977fcc89224460fa32[m
+Author: Mizanurmd <mizanur021991@gmail.com>
+Date:   Mon Sep 25 11:19:37 2023 +0600
+
+    Stream Api with collection
+
+[33mcommit 48850ae8f4ad3105dfd1c590ad5e32a0ff36802c[m
+Author: Mizanurmd <mizanur021991@gmail.com>
+Date:   Fri Sep 22 10:53:45 2023 +0600
+
+    Strap used and Print start.
+
+[33mcommit 09b85a81240b383419a4f8cd8a0740d904353f31[m
+Author: Mizanurmd <mizanur021991@gmail.com>
+Date:   Tue Sep 19 10:31:01 2023 +0600
+
+    RemoveDuplicate from list and special character print from String
+
+[33mcommit 569bf365377f2732d8346082e3ca6cf498fa6696[m
+Author: Mizanurmd <mizanur021991@gmail.com>
+Date:   Mon Sep 18 12:26:28 2023 +0600
+
+    Print even & odd number from Array
+
+[33mcommit 73f0bfb2a033e7c72a9e2dc4eca7478231d6fd50[m
+Author: Mizanurmd <mizanur021991@gmail.com>
+Date:   Tue Sep 12 15:02:36 2023 +0600
+
+    A lot of exm code
+
+[33mcommit 49e6c2e30cb0541016b79bc0dff63c4f88dbc202[m
+Author: Mizanurmd <mizanur021991@gmail.com>
+Date:   Fri Sep 8 08:23:31 2023 +0600
+
+    ArrayList Various print way here.
+
+[33mcommit d4024a9761ab18e3f902af19b1e81e2945b40450[m
+Author: Mizanurmd <mizanur021991@gmail.com>
+Date:   Thu Sep 7 15:31:23 2023 +0600
+
+    String Reverse coding programmer in 4 ways.
+
+[33mcommit bd2f1f73ef0f5b583df790a1b6f9241f23959bd3[m
+Author: Mizanurmd <mizanur021991@gmail.com>
+Date:   Wed Sep 6 16:45:03 2023 +0600
+
+    Remove White space from String
+
+[33mcommit 8767722f012c92a7d73cf41b4e4c05c8c37e85d5[m
+Author: Mizanurmd <mizanur021991@gmail.com>
+Date:   Wed Sep 6 16:31:51 2023 +0600
+
+    initial commit
