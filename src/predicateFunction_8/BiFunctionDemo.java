@@ -1,4 +1,4 @@
-package predicateFunction;
+package predicateFunction_8;
 
 import java.util.function.BiFunction;
 
