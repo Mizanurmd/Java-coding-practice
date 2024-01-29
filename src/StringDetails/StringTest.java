@@ -28,7 +28,7 @@ public class StringTest {
 		
 		String[]b = st.split(" ");
 		for(String tem :b) {
-			System.out.println(tem);
+			System.out.print(tem+" ");
 		}
 		
 		
