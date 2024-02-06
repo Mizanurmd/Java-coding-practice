@@ -4,7 +4,11 @@ import java.util.function.Predicate;
 
 public class PredicateJoining {
 	public static void main(String[] args) {
-
+		/*
+		 * Q. What is Pedicate? Ans: The predicate interface has an abstract method test
+		 * hich gives a boolean value as a return for the specified arguments
+		 */
+		
 		Predicate<String> checkLength = s -> s.length() >= 5;
 		System.out.println("The length is greater than 5 : " + checkLength.test("Code decode"));
 
