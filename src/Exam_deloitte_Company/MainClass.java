@@ -13,13 +13,15 @@ public class MainClass {
 		
 		List<Employee>emp = new ArrayList<>();
 		emp.add(new Employee(1, 500));
-		emp.add(new Employee(2, 1000));
+		emp.add(new Employee(2, 100));
 		emp.add(new Employee(3, 1500));
 		emp.add(new Employee(4, 2000));
 		emp.add(new Employee(5, 2500));
 		emp.add(new Employee(6, 3000));
 		emp.add(new Employee(7, 3500));
 	//	System.out.println(emp);
+		List<Employee>stEm=emp.stream().sorted((a,b)->a.getSalary()-b.getSalary()).collect(Collectors.toList());
+		System.out.println(stEm);
 		System.out.println("======Q1:sorted employee based on their salaried descending order=====");
 		List<Employee>decendingOrder=emp.stream().sorted((a, b)->b.getSalary()-a.getSalary())
 		.collect(Collectors.toList());
